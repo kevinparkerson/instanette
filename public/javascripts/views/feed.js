@@ -22,7 +22,7 @@ define( [
 		regions: {
 			canvas: '.repeater-canvas',
 			headerRight: '.repeater-header-right',
-			headerLeft: '.repeater-header-left',
+			headerLeft: '.repeater-header-left'
 		},
 		
 		events: {

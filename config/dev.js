@@ -4,4 +4,4 @@ module.exports = {
 		versionedDir: false
 	},
 	developmentMode: true
-}
+};
